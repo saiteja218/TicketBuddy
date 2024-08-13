@@ -1,0 +1,16 @@
+.login-div{
+    height: 92.4vh;
+    background-image: url(./assets/ticket-buddy-bg.jpg);
+    background-size: cover;
+    box-sizing: border-box;
+}
+.checkOut-div{
+    height: 92.4vh;
+    width: 100%;
+    background-image: url(./assets/ticket-buddy-bg.jpg);
+    background-size: cover;
+    box-sizing: border-box;
+}
+
+.mov-col{
+     --bs-gutter-x: 0;}
